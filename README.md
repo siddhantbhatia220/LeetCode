@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhantbhatia220/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhantbhatia220/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
