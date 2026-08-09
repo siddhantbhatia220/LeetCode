@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/siddhantbhatia220/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0205-isomorphic-strings](https://github.com/siddhantbhatia220/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/siddhantbhatia220/LeetCode/tree/master/0205-isomorphic-strings) |
 | [3731-find-missing-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
