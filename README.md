@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/siddhantbhatia220/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3731-find-missing-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/siddhantbhatia220/LeetCode/tree/master/0035-search-insert-position) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3731-find-missing-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -109,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
