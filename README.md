@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/siddhantbhatia220/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0205-isomorphic-strings](https://github.com/siddhantbhatia220/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddhantbhatia220/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/siddhantbhatia220/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0456-132-pattern](https://github.com/siddhantbhatia220/LeetCode/tree/master/0456-132-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/siddhantbhatia220/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddhantbhatia220/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/siddhantbhatia220/LeetCode/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 ## Greedy
