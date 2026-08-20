@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/siddhantbhatia220/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/siddhantbhatia220/LeetCode/tree/master/2029-stone-game-ix) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/siddhantbhatia220/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhantbhatia220/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/siddhantbhatia220/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/siddhantbhatia220/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/3731-find-missing-elements) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/siddhantbhatia220/LeetCode/tree/master/2029-stone-game-ix) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/siddhantbhatia220/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## String Matching
 |  |
 | ------- |
