@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/siddhantbhatia220/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhantbhatia220/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/siddhantbhatia220/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
