@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/siddhantbhatia220/LeetCode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddhantbhatia220/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/siddhantbhatia220/LeetCode/tree/master/1392-longest-happy-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
