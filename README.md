@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhantbhatia220/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/siddhantbhatia220/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/siddhantbhatia220/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/siddhantbhatia220/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siddhantbhatia220/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/siddhantbhatia220/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/siddhantbhatia220/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/siddhantbhatia220/LeetCode/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/siddhantbhatia220/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siddhantbhatia220/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/siddhantbhatia220/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
