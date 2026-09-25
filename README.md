@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/siddhantbhatia220/LeetCode/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/siddhantbhatia220/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0704-binary-search](https://github.com/siddhantbhatia220/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/siddhantbhatia220/LeetCode/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/siddhantbhatia220/LeetCode/tree/master/1094-car-pooling) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/siddhantbhatia220/LeetCode/tree/master/0035-search-insert-position) |
 | [0456-132-pattern](https://github.com/siddhantbhatia220/LeetCode/tree/master/0456-132-pattern) |
+| [0704-binary-search](https://github.com/siddhantbhatia220/LeetCode/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
