@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/siddhantbhatia220/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
+| [0344-reverse-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/siddhantbhatia220/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0796-rotate-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/siddhantbhatia220/LeetCode/tree/master/0031-next-permutation) |
+| [0344-reverse-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
