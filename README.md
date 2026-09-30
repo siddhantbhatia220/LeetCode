@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/siddhantbhatia220/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/siddhantbhatia220/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/siddhantbhatia220/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddhantbhatia220/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siddhantbhatia220/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/siddhantbhatia220/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddhantbhatia220/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/siddhantbhatia220/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/siddhantbhatia220/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Minimax
 |  |
