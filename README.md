@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddhantbhatia220/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/siddhantbhatia220/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/siddhantbhatia220/LeetCode/tree/master/0456-132-pattern) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/siddhantbhatia220/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
