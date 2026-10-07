@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddhantbhatia220/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siddhantbhatia220/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1688-count-of-matches-in-tournament](https://github.com/siddhantbhatia220/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhantbhatia220/LeetCode/tree/master/2029-stone-game-ix) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/siddhantbhatia220/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1094-car-pooling](https://github.com/siddhantbhatia220/LeetCode/tree/master/1094-car-pooling) |
+| [1688-count-of-matches-in-tournament](https://github.com/siddhantbhatia220/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2974-minimum-number-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
