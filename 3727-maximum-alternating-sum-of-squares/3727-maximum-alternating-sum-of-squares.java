@@ -1,16 +1,19 @@
 class Solution {
     public long maxAlternatingSum(int[] nums) {
-        long[] a = new long[nums.length];
-        for (int i = 0; i < nums.length; i++)
-            a[i] = (long) nums[i] * nums[i];
-        Arrays.sort(a);
-        long ans = 0;
-        int k = nums.length / 2; 
-        for (int i = 0; i < k; i++)
-            ans -= a[i];
-        for (int i = k; i < nums.length; i++)
-            ans += a[i];
-
-        return ans;
+        long answer = 0 ;
+        int len = nums.length ;
+        for(int i=0 ; i<len ; i++)
+            nums[i] = nums[i] * nums[i] ;
+        Arrays.sort(nums) ;
+        int left = 0 , right = nums.length-1 ;
+        while(left < right)
+        {
+            answer += nums[right] ;
+            answer -= nums[left] ;
+            right-- ;
+            left++ ;
+        }
+        if(len%2 == 1)  answer += nums[len/2] ;
+        return answer ;
     }
 }
