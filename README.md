@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/siddhantbhatia220/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/siddhantbhatia220/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddhantbhatia220/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/siddhantbhatia220/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/siddhantbhatia220/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/siddhantbhatia220/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/siddhantbhatia220/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/siddhantbhatia220/LeetCode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/siddhantbhatia220/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Minimax
 |  |
