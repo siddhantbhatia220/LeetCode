@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siddhantbhatia220/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/siddhantbhatia220/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3019-number-of-changing-keys](https://github.com/siddhantbhatia220/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/siddhantbhatia220/LeetCode/tree/master/2029-stone-game-ix) |
 | [2396-strictly-palindromic-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/siddhantbhatia220/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2652-sum-multiples](https://github.com/siddhantbhatia220/LeetCode/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/siddhantbhatia220/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
