@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/siddhantbhatia220/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/siddhantbhatia220/LeetCode/tree/master/0860-lemonade-change) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/siddhantbhatia220/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0491-non-decreasing-subsequences](https://github.com/siddhantbhatia220/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/siddhantbhatia220/LeetCode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
