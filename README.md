@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/siddhantbhatia220/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/siddhantbhatia220/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/siddhantbhatia220/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/siddhantbhatia220/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhantbhatia220/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/siddhantbhatia220/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0518-coin-change-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/siddhantbhatia220/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Memoization
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/siddhantbhatia220/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/siddhantbhatia220/LeetCode/tree/master/0085-maximal-rectangle) |
+| [3665-twisted-mirror-path-count](https://github.com/siddhantbhatia220/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Minimax
 |  |
 | ------- |
