@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/siddhantbhatia220/LeetCode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/siddhantbhatia220/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/siddhantbhatia220/LeetCode/tree/master/0456-132-pattern) |
 | [0491-non-decreasing-subsequences](https://github.com/siddhantbhatia220/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/siddhantbhatia220/LeetCode/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddhantbhatia220/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siddhantbhatia220/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
