@@ -405,10 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0101-symmetric-tree) |
 ## Brainteaser
 |  |
@@ -449,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/siddhantbhatia220/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0518-coin-change-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
