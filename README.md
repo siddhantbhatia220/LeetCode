@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/siddhantbhatia220/LeetCode/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/siddhantbhatia220/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/siddhantbhatia220/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/siddhantbhatia220/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/siddhantbhatia220/LeetCode/tree/master/0326-power-of-three) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddhantbhatia220/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siddhantbhatia220/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
