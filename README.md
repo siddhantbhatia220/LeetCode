@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhantbhatia220/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/siddhantbhatia220/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/siddhantbhatia220/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/siddhantbhatia220/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddhantbhatia220/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/siddhantbhatia220/LeetCode/tree/master/0326-power-of-three) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/siddhantbhatia220/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/siddhantbhatia220/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
