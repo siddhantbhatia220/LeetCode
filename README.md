@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/siddhantbhatia220/LeetCode/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/siddhantbhatia220/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/siddhantbhatia220/LeetCode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/siddhantbhatia220/LeetCode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddhantbhatia220/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/siddhantbhatia220/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/siddhantbhatia220/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/siddhantbhatia220/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/siddhantbhatia220/LeetCode/tree/master/0504-base-7) |
