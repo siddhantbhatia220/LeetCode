@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/siddhantbhatia220/LeetCode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siddhantbhatia220/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/siddhantbhatia220/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2747-count-zero-request-servers](https://github.com/siddhantbhatia220/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/siddhantbhatia220/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/2974-minimum-number-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/siddhantbhatia220/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2747-count-zero-request-servers](https://github.com/siddhantbhatia220/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/siddhantbhatia220/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/siddhantbhatia220/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/siddhantbhatia220/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2747-count-zero-request-servers](https://github.com/siddhantbhatia220/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2974-minimum-number-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhantbhatia220/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddhantbhatia220/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/siddhantbhatia220/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/siddhantbhatia220/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
