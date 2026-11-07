@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/siddhantbhatia220/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1710-maximum-units-on-a-truck](https://github.com/siddhantbhatia220/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1882-process-tasks-using-servers](https://github.com/siddhantbhatia220/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/siddhantbhatia220/LeetCode/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siddhantbhatia220/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/siddhantbhatia220/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1094-car-pooling](https://github.com/siddhantbhatia220/LeetCode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/siddhantbhatia220/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2974-minimum-number-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/2974-minimum-number-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/siddhantbhatia220/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Quickselect
