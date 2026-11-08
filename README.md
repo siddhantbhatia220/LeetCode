@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/siddhantbhatia220/LeetCode/tree/master/1094-car-pooling) |
+| [1267-count-servers-that-communicate](https://github.com/siddhantbhatia220/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddhantbhatia220/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/siddhantbhatia220/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/siddhantbhatia220/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/siddhantbhatia220/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/siddhantbhatia220/LeetCode/tree/master/0085-maximal-rectangle) |
+| [1267-count-servers-that-communicate](https://github.com/siddhantbhatia220/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/siddhantbhatia220/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Minimax
 |  |
@@ -440,11 +443,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0101-symmetric-tree) |
+| [1267-count-servers-that-communicate](https://github.com/siddhantbhatia220/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/siddhantbhatia220/LeetCode/tree/master/0101-symmetric-tree) |
 | [0322-coin-change](https://github.com/siddhantbhatia220/LeetCode/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/siddhantbhatia220/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -490,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0202-happy-number) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/siddhantbhatia220/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
