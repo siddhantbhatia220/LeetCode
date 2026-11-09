@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/siddhantbhatia220/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/siddhantbhatia220/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantbhatia220/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/siddhantbhatia220/LeetCode/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/siddhantbhatia220/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/siddhantbhatia220/LeetCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddhantbhatia220/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
