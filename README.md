@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/siddhantbhatia220/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/siddhantbhatia220/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddhantbhatia220/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/siddhantbhatia220/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3871-count-commas-in-range-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/siddhantbhatia220/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/siddhantbhatia220/LeetCode/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/siddhantbhatia220/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/siddhantbhatia220/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/siddhantbhatia220/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String Matching
 |  |
 | ------- |
