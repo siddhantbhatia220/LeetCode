@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddhantbhatia220/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/siddhantbhatia220/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/siddhantbhatia220/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1710-maximum-units-on-a-truck](https://github.com/siddhantbhatia220/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddhantbhatia220/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siddhantbhatia220/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/siddhantbhatia220/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/siddhantbhatia220/LeetCode/tree/master/1927-sum-game) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/siddhantbhatia220/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0518-coin-change-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/siddhantbhatia220/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/siddhantbhatia220/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/siddhantbhatia220/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/siddhantbhatia220/LeetCode/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/siddhantbhatia220/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/siddhantbhatia220/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Stack
