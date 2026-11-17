@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/siddhantbhatia220/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/siddhantbhatia220/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/siddhantbhatia220/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3019-number-of-changing-keys](https://github.com/siddhantbhatia220/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3340-check-balanced-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/siddhantbhatia220/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/0518-coin-change-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/siddhantbhatia220/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/siddhantbhatia220/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/siddhantbhatia220/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/siddhantbhatia220/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/siddhantbhatia220/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/siddhantbhatia220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/siddhantbhatia220/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/siddhantbhatia220/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/siddhantbhatia220/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Quicksort
 |  |
 | ------- |
